@@ -1,0 +1,1 @@
+{"rtn":"9000","msg":"作業失敗org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'batchid' is not present","resptime":"2025-06-07T06:26:01.163351300Z","ins":null,"info":null}
